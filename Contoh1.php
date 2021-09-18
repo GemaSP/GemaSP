@@ -2,7 +2,7 @@
 
 namespace App\Controllers;
 
-class Contoh2 extends BaseController
+class Contoh1 extends BaseController
 {
 	public function index()
 	{
