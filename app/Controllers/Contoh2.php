@@ -8,6 +8,7 @@ class Contoh2 extends BaseController
     {
         echo "Perkenalkan";
         echo "Saya jordi elNino
-        hobi saya ngewe tante"
+        hobi saya ngewe tante";
+        echo "<h1>Astagfirullah</h1>";
     }
 }
